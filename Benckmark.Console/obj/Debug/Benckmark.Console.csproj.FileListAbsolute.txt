@@ -1,0 +1,12 @@
+C:\Users\James\source\repos\BenchMark\Benckmark.Console\bin\Debug\Benckmark.Console.exe.config
+C:\Users\James\source\repos\BenchMark\Benckmark.Console\bin\Debug\Benckmark.Console.exe
+C:\Users\James\source\repos\BenchMark\Benckmark.Console\bin\Debug\Benckmark.Console.pdb
+C:\Users\James\source\repos\BenchMark\Benckmark.Console\bin\Debug\Benchmark.dll
+C:\Users\James\source\repos\BenchMark\Benckmark.Console\bin\Debug\Benchmark.Tests.dll
+C:\Users\James\source\repos\BenchMark\Benckmark.Console\bin\Debug\Benchmark.Tests.pdb
+C:\Users\James\source\repos\BenchMark\Benckmark.Console\bin\Debug\Benchmark.pdb
+C:\Users\James\source\repos\BenchMark\Benckmark.Console\obj\Debug\Benckmark.Console.csprojAssemblyReference.cache
+C:\Users\James\source\repos\BenchMark\Benckmark.Console\obj\Debug\Benckmark.Console.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\BenchMark\Benckmark.Console\obj\Debug\Benckmark.Console.csproj.CopyComplete
+C:\Users\James\source\repos\BenchMark\Benckmark.Console\obj\Debug\Benckmark.Console.exe
+C:\Users\James\source\repos\BenchMark\Benckmark.Console\obj\Debug\Benckmark.Console.pdb

@@ -1,0 +1,6 @@
+C:\Users\James\source\repos\BenchMark\Benchmark\bin\Debug\Benchmark.dll
+C:\Users\James\source\repos\BenchMark\Benchmark\bin\Debug\Benchmark.pdb
+C:\Users\James\source\repos\BenchMark\Benchmark\obj\Debug\Benchmark.csprojAssemblyReference.cache
+C:\Users\James\source\repos\BenchMark\Benchmark\obj\Debug\Benchmark.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\BenchMark\Benchmark\obj\Debug\Benchmark.dll
+C:\Users\James\source\repos\BenchMark\Benchmark\obj\Debug\Benchmark.pdb
